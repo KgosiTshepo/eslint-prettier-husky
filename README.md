@@ -3,7 +3,7 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
 ![Prerequisite](https://img.shields.io/badge/node-%3E%3D8.10.0-blue.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE)
-[![Twitter: https://twitter.com/kgosi_cs/](https://img.shields.io/twitter/follow/https://twitter.com/kgosi_cs/.svg?style=social)](https://twitter.com/https://twitter.com/kgosi_cs/)
+[![Twitter: https://twitter.com/kgosi_cs/](https://img.shields.io/twitter/follow/kgosi_cs.svg?style=social)](https://twitter.com/kgosi_cs/)
 
 > Set up Eslint,Prettier and git pre-commit hook with Husky
 
